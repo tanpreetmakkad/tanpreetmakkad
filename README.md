@@ -27,11 +27,11 @@ My edge is combining **manufacturing discipline** (process, quality, forecasting
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Gujarat Career Portal** | AI-powered career guidance for 10th/12th students (aptitude + RIASEC + counselling) | Active |
+| **Student Counseling Portal** | AI-powered career guidance for 10th/12th students (aptitude + RIASEC + counselling) | Active |
 | **Vibe Stack / Agentic Factory** | Reusable standards + starters for multi-tenant AI apps | Core |
 | **Lead Systems** | GDPR-compliant capture → distribution pipelines for B2B | Multiple iterations |
 | **Inventory & Forecasting Tools** | Real-world EOQ + FIFO systems for workshops & stores | Manufacturing crossover |
-| **University Living (GTM)** | Student accommodation platform expansion | Partnership |
+| **Scalable Listing Platform (Template)** | A listing platform for B2B2C, which can self scale on SEO, GEO, AEO etc | Listing Template |
 
 ---
 
@@ -55,7 +55,7 @@ My edge is combining **manufacturing discipline** (process, quality, forecasting
 ### Open To
 
 - Senior roles in EdTech / SaaS (Sales Leadership, Chief of Staff, Growth, Product Ops)
-- Collaborations on AI agentic systems and education platforms
+- Collaborations on AI agentic systems, and education platforms
 - Interesting problems at the intersection of systems thinking + AI product building
 
 ---
